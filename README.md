@@ -1,14 +1,14 @@
-# Beautiful-Soup-
+# Mars Scrapping Analysis
 # WebScraping Challenge 
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
-[website](https://github.com/mattcat1221/Beautiful-Soup-)
+[website](https://github.com/mattcat1221/Mars-Scrapping-Analysis)
+
+![Mars Pressure](mockup.png)
 
 ## Description
  For this project. First, I scraped the titles and a little bit of the text from news articles about Mars. Second,  I collected and studied the weather information for Mars, which is listed in a table.
-
-
 
 ## Table of Contents
 - [Installation](#installation)
@@ -35,26 +35,11 @@ MIT
 Splinter, a tool that automates our web browser actions, which allows us to automatically scan and repeat interactions on websites. ChromeDriver, which enables automation in the Chrome browser. Beautiful Soup, a Python library that allows you to pull out and parse specific information from a webpage. html5lib and lxml, which are packages that Beautiful Soup uses to parse websites.
 
 
-
 ## Contact
 If there are any questions of concerns, I can be reached at:
 ##### [github: matcat1221](https://github.com/matcat1221)
 ##### [email: caseyvmatthews@gmail.com](mailto:caseyvmatthews@gmail.com)
 
-
-
-
-
-
-![Image 6-16-24 at 8 20 AM](https://github.com/mattcat1221/Beautiful-Soup-/assets/158774626/1c3240d4-5239-4036-a5d3-21f5c532cf7e)
-
-
-
-
-
-
-
-![Image 6-16-24 at 8 20 AM (1)](https://github.com/mattcat1221/Beautiful-Soup-/assets/158774626/1b65c270-f787-489e-badb-90c75ebfacbe)
 
 
 
